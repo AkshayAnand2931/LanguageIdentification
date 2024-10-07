@@ -1,3 +1,0 @@
-Start time: 342.72799999999995 seconds
-End time: 388.48999999999995 seconds
-(Out of 424.18 seconds)
