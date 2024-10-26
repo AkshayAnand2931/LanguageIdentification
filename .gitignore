@@ -1,5 +1,6 @@
-CodeMixed
-English
-Hindi
-segmented
+Dataset
+segments
+segmented_files_output
 *.zip
+*.pkl
+*.keras
