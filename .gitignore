@@ -1,6 +1,7 @@
 Dataset
 segments
 segmented_files_output
+segmented_files_output_latest
 *.zip
 *.pkl
 *.keras
